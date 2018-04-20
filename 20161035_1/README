@@ -1,0 +1,7 @@
+Usage Instructions:-
+	- The file reverse.c reverse a file and puts the output in a file output.txt in the Assignment folder in present directory.
+		- method of usage: ./a.out [input_filename]
+
+	- The symlink.c creates a symlink and also checks various other file and directory properties like permissions and inversions.
+		- method of usage: ./a.out [input_filename]
+
